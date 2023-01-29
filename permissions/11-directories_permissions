@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r 711 tmp/h/ 
+chmod  711 -r ./
