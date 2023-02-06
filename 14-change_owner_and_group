@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent . -R | newgrp staff . -R
+chown  vincent * ./*/ | chgrp staff * ./*/
